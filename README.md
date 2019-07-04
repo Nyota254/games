@@ -13,9 +13,9 @@
 ## Known Bugs
 {there are no bugs in this application }
 ## Technologies Used
-HTML
+{HTML}
 ## Support and contact details
-if you run into any issues cntact me at email@email.com.
+{if you run into any issues cntact me at email@email.com.}
 ### License
 MIT
-Copyright (c) 2019 Nyota
+Copyright (c) {2019} **{Nyota}**
